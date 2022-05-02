@@ -197,7 +197,6 @@ font-size: 1.9rem;
     
         .description{
             color: var(--slightly-transparent-white-stat-headings);
-            border: 1px solid;
             font-size: 1rem;
             line-height: 1.5rem;
             max-width: 20rem;
